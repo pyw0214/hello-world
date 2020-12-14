@@ -1,5 +1,6 @@
-print("hello world")
-a = 4
-b = 8
+age = "18"
 
-print(a + b)
+print(type(age))
+n_age = int(age)
+print(type(n_age))
+print(n_age)
